@@ -1,6 +1,19 @@
-title: Minimal theme
+title: <p align="right"> Sajan Kedia </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/mishra-akash-0103/">LinkedIn</a> |
+  <a href="https://github.com/akash-mishra01/">GitHub</a>
+  
+  <br>   
+  I'm working on Data Science, Big Data, Spark, Machine learning & NLP related problems.
+  Worked with Kyndryl in AI-Ops team.
+  Working as Python/shell/Database developer in BFS domain for 11 years.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
